@@ -28,6 +28,11 @@ This Laravel project is designed to manage seminars, activities, members, and re
    ```bash
    php artisan serve
    ```
+4. **If the Style not Working well Use those commands**
+   ```bash
+   npm install
+   npm run dev
+   ```
 
 ## Usage
 
